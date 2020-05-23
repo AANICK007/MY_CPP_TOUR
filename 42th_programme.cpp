@@ -10,6 +10,7 @@ int main() {
 	
 	cout << p << endl ;
 	
+	// first arithmetic operation     p++
 	p++ ; 
 	cout << p << endl ; // points to next integer value's address
 	
