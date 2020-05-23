@@ -39,6 +39,11 @@ int main() {
 	p[19] = 56 ;
 	cout << p[19] << endl  ;
 	
+	// deleting the memory in the pointer
+	
+	delete []p ;
+	p = NULL ;
+	
 	//  till here we can access only 20 places in the heap 
 	
 	p = new int [40] ;
