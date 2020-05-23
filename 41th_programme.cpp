@@ -1,4 +1,5 @@
 // This is a programme to stuudy the importance of heap memory allocation
+// This programme also depicts the importance of pointers concept in programming
 
 /*
 
