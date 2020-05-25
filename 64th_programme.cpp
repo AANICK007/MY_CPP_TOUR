@@ -1,4 +1,4 @@
-// This is a programme to find maximum of given numbers using function temolates
+// This is a programme to find maximum of given numbers using function templates
 #include<iostream> 
 
 using namespace std ;
